@@ -16,9 +16,10 @@ sua resposta é 1
 
 ## Estrutura
 main.cpp == Arquivo com o código
-LICENCE == Arquivo com a licença
+
+LICENSE == Arquivo com a licença
+
 README.md == Esse arquivo
 
 ## Licença
-Link da licença: https://mit-license.org/
-
+Link da licença: 
