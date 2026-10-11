@@ -1,6 +1,6 @@
 # Calculadora Básica
 ## Descrição
-Dá os resultados de expressões básicas com as quatro operações fundamentais na ordem que aparecem.
+Dá os resultados de expressões básicas com as quatro operações fundamentais na ordem que aparecem. Pode ser útil para pessoas que queiram fazer contas grandes rapidamente.
 ## Instalação
 É necessário ter um compilador de c++ instalado, você pode baixar o arquivo pelo vscode.
 
@@ -22,3 +22,4 @@ README.md == Esse arquivo
 
 ## Licença
 Link da licença: https://github.com/LeticiaNic16/Dever-do-Sprint/blob/main/LICENSE
+(Licença MIT)
