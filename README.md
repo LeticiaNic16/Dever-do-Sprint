@@ -11,7 +11,7 @@ Para fazer a operação de soma se usa +, subtração se usa -, divisão se usa 
 ### Saída:
 sua resposta é 1
 ### Ilustração
-<img width="534" height="271" alt="image" src="https://github.com/user-attachments/assets/51fdddb8-fbf5-4c59-806d-10870f834dd2" />
+<img width="534" height="271" alt="image" src="(https://github.com/LeticiaNic16/Dever-do-Sprint/blob/main/Foto%20de%20Exemplo.png)" />
 
 ## Estrutura
 main.cpp == Arquivo com o código
