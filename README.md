@@ -22,4 +22,4 @@ README.md == Esse arquivo
 
 ## Licença
 Link da licença: file:///C:/Users/Administrator/Downloads/LICENSE%20(1).txt
-(Licença MIT)
+ (Licença MIT)
