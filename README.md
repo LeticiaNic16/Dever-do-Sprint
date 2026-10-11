@@ -1,7 +1,6 @@
 # Calculadora Básica
 ## Descrição
-Dá os resultados de expressões básicas com as quatro operações fundamentais na ordem que aparecem com pressisão de 15 casas decimais.
-
+Dá os resultados de expressões básicas com as quatro operações fundamentais na ordem que aparecem.
 ## Instalação
 É necessário ter um compilador de c++ instalado, você pode baixar o arquivo pelo vscode.
 
@@ -22,4 +21,4 @@ LICENSE == Arquivo com a licença
 README.md == Esse arquivo
 
 ## Licença
-Link da licença: 
+Link da licença: https://github.com/LeticiaNic16/Dever-do-Sprint/blob/main/LICENSE
