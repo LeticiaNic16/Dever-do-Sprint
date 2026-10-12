@@ -2,8 +2,10 @@
 ## Descrição
 Dá os resultados de expressões básicas com as quatro operações fundamentais na ordem que aparecem. Pode ser útil para pessoas que queiram fazer contas grandes rapidamente.
 ## Instalação
-Baixe o código pelo vscode ou gdb e use um compilador c++ 14 de sua preferência.
-
+Clone o repositório
+Acesse o diretório do projeto
+Compile o programa
+Execute o programa
 ## Exemplo
 Para fazer a operação de soma se usa +, subtração se usa -, divisão se usa /, multiplicação se usa *.
 ### Exemplo de entrada:
