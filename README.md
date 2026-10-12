@@ -23,5 +23,5 @@ LICENSE == Arquivo com a licença
 README.md == Esse arquivo
 
 ## Licença
-Link da licença: file:///C:/Users/Administrator/Downloads/LICENSE%20(1).txt
+Link da licença: [file:///C:/Users/Administrator/Downloads/LICENSE%20(1).txt](https://github.com/LeticiaNic16/Dever-do-Sprint/blob/main/LICENSE)
  (Licença MIT)
