@@ -2,10 +2,22 @@
 ## Descrição
 Dá os resultados de expressões básicas com as quatro operações fundamentais na ordem que aparecem. Pode ser útil para pessoas que queiram fazer contas grandes rapidamente.
 ## Instalação
-Clone o repositório
-Acesse o diretório do projeto
-Compile o programa
-Execute o programa
+Clone o repositório:
+git clone https://github.com/LeticiaNic16/Dever-do-Sprint.git
+
+Acesse o diretório do projeto:
+cd Dever-do-Sprint
+
+Compile o programa (main.cpp):
+g++ main.cpp -o calculadora
+
+Execute o programa:
+
+No Windows:
+calculadora.exe
+
+No Linux/macOS:
+./calculadora
 ## Exemplo
 Para fazer a operação de soma se usa +, subtração se usa -, divisão se usa /, multiplicação se usa *.
 ### Exemplo de entrada:
